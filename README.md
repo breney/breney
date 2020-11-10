@@ -3,7 +3,11 @@
 - 📫 How to reach me: brunopy2@gmail.com
 - 😄 Pronouns: semilha
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=breney&theme=dracula" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breney&theme=dracula&line_height=21" />
+<a href="https://github.com/breney">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=breney&show_icons=true&include_all_commits=true&line_height=21&theme=vue" />
+</a>
+<a href="https://github.com/breney">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breney&layout=compact&theme=vue" />
+</a>
 
 
