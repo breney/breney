@@ -8,9 +8,9 @@
 <a href="https://www.instagram.com/brunopereira222/">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-</br>
+<br>
 - 📫 How to reach me: brunopy2@gmail.com
-</br>
+<br>
 <a href="https://github.com/breney">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=breney&show_icons=true&include_all_commits=true&line_height=20&theme=buefy" />
 </a>
