@@ -1,6 +1,6 @@
-### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
+### Hello! I'm Bruno a Back-End Stack Developer from Portugal.
 
-### Portfolio: https://brdhanani.github.io
+### Portfolio: https://github.com/breney
 
 <a href="linkedin.com/in/bruno-pereira-b117ab210">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/brunopereira222/">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br>
+<br></br>
 - 📫 How to reach me: brunopy2@gmail.com
 
 <a href="https://github.com/breney">
