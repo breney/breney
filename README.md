@@ -2,7 +2,7 @@
 
 ### Portfolio: https://github.com/breney
 
-<a href="linkedin.com/in/bruno-pereira-b117ab210">
+<a href="https://linkedin.com/in/bruno-pereira-b117ab210">
   <img align="left" alt="Brijesh Dhanani" width="22px" style='background-color=blue;' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/brunopereira222/">
