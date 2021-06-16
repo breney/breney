@@ -1,4 +1,5 @@
 
+- :page_with_curl: Linkedin: linkedin.com/in/bruno-pereira-b117ab210
 - 📫 How to reach me: brunopy2@gmail.com
 
 <a href="https://github.com/breney">
