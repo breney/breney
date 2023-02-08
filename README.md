@@ -1,17 +1,16 @@
-<div style="font-family: monospace;font-weight: 400;font-style: normal;"> 
-<p>Social Networks</p>
+<p >Social Networks</p>
 <a href="https://linkedin.com/in/bruno-pereira-b117ab210">
-  <img align="left" alt="Brijesh Dhanani" width="22px" style='padding-right: 0px;background-color: #0077B5 !important;border: #0077B5 1px solid;border-radius: 10px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://www.svgrepo.com/show/81143/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/brunopereira222/">
-  <img align="left" alt="Brijesh Dhanani" width="22px" style="background-color: #fa7e1e !important;border: #fa7e1e 1px solid;padding-right: 0px;border-radius: 10px; margin-left: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/instagram-216-721958.png?f=avif&w=256" />
 </a>
 <br><br>
-Contact
-<br><br>
- <img align="left" alt="Brijesh Dhanani" width="22px" style="background-color: red !important;border: green 1px solid;padding-right: 0px;border-radius: 10px; margin-left: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
-brunopy2@gmail.com
-</div>
+<p>Contact</p>
+
+ <img align="left" alt="Brijesh Dhanani" width="22px" style="background-color: red !important;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+<p style="margin-bottom: 1px;">brunopy2@gmail.com</p>
+
 
 
 
