@@ -9,7 +9,7 @@
 <p>Contact</p>
 
  <img align="left" alt="Brijesh Dhanani" width="22px" style="background-color: red !important;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-<p style="margin-bottom: 1px;">brunopy2@gmail.com</p>
+<p>brunopy2@gmail.com</p>
 
 
 
