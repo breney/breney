@@ -1,5 +1,3 @@
-### Hello! I'm Bruno a Back-End Stack Developer from Portugal.
-
 ### Portfolio: https://github.com/breney
 
 <a href="https://linkedin.com/in/bruno-pereira-b117ab210">
