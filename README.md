@@ -11,11 +11,6 @@
 <code><a target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
 <code><a target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 
-
-
-</details>
-<br>
-
 ---
 
  📔 GitHub Stats:
